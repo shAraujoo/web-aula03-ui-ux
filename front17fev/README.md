@@ -47,6 +47,6 @@ Este exercício tem como objetivo **exibir produtos a partir de um arquivo JSON*
 - Criar uma **página de detalhes do produto**.
 
 ---
-**Desenvolvido por:** Gabriel B. Zanon
+**Desenvolvido por:** Gabriel A
 
 
